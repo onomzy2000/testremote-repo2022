@@ -6,4 +6,6 @@ Friday
 Saturday
 Sunday
 
-Days of the week.
+Days of the week
+
+For your eyes only
