@@ -5,3 +5,5 @@ Thursday
 Friday
 Saturday
 Sunday
+
+Days of the week.
